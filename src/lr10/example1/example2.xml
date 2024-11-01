@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+            
+    
+    <movie>
+                        
+        
+        <title>12 стульев</title>
+                        
+        
+        <director>Леонид Гайдай</director>
+                        
+        
+        <year>1971</year>
+                    
+    
+    </movie>
+            
+    
+    <movie>
+                        
+        
+        <title>Служебный роман</title>
+                        
+        
+        <director>Эльдар Рязанов</director>
+                        
+        
+        <year>1977</year>
+                    
+    
+    </movie>
+            
+    
+    <movie>
+                        
+        
+        <title>Бриллиантовая рука</title>
+                        
+        
+        <director>Леонид Гайдай</director>
+                        
+        
+        <year>1968</year>
+                    
+    
+    </movie>
+            
+    
+    <movie>
+                        
+        
+        <title>Иван Васильевич меняет профессию</title>
+                        
+        
+        <director>Леонид Гайдай</director>
+                        
+        
+        <year>1973</year>
+                    
+    
+    </movie>
+            
+    
+    <movie>
+                        
+        
+        <title>Джентльмены удачи</title>
+                        
+        
+        <director>Александр Серый</director>
+                        
+        
+        <year>1971</year>
+                    
+    
+    </movie>
+        
+    
+    <movie>
+                
+        <title>Интерстеллар</title>
+                
+        <director>Ли Смит</director>
+                
+        <year>2014</year>
+            
+    </movie>
+    
+</library>
